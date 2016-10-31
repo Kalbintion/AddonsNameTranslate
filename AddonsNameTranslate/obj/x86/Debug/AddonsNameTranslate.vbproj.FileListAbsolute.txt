@@ -1,0 +1,8 @@
+C:\Projects\VS10\AddonsNameTranslate\AddonsNameTranslate\bin\Debug\AddonsNameTranslate.exe
+C:\Projects\VS10\AddonsNameTranslate\AddonsNameTranslate\bin\Debug\AddonsNameTranslate.pdb
+C:\Projects\VS10\AddonsNameTranslate\AddonsNameTranslate\bin\Debug\AddonsNameTranslate.xml
+C:\Projects\VS10\AddonsNameTranslate\AddonsNameTranslate\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Projects\VS10\AddonsNameTranslate\AddonsNameTranslate\obj\x86\Debug\AddonsNameTranslate.vbproj.GenerateResource.Cache
+C:\Projects\VS10\AddonsNameTranslate\AddonsNameTranslate\obj\x86\Debug\AddonsNameTranslate.exe
+C:\Projects\VS10\AddonsNameTranslate\AddonsNameTranslate\obj\x86\Debug\AddonsNameTranslate.xml
+C:\Projects\VS10\AddonsNameTranslate\AddonsNameTranslate\obj\x86\Debug\AddonsNameTranslate.pdb
